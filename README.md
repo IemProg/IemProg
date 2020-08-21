@@ -1,16 +1,24 @@
-### Hi there 👋
+### Welcome 👋
 
-<!--
-**IemProg/IemProg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/IemProg/count.svg" />
+</p>
 
-Here are some ideas to get you started:
+Hi ! I'm Imad, Computer Science Student at IP Paris, I have a passion for learning and sharing my knowledge with others as publicly as possible. Interested in Computer Vision and Explainibility of ML Models. 
+Feel free to reach out in case you look for contributors in projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align='center'>
+<a href="https://www.linkedin.com/in/IemProg/"><img height="30" src="https://github.com/IemProg/IemProg/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/IemProg"><img height="30" src="https://github.com/IemProg/IemProg/blob/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/imadeddine.ma/"><img height="30" src="https://github.com/IemProg/IemProg/blob/master/instagram.png?raw=true"></a>&nbsp;&nbsp;
+<a href="mailto:imadeddine.ma@gmail.com"><img height="30" src="https://github.com/IemProg/IemProg/blob/master/mail.png?raw=true"></a>
+</p>
+
+<a href="https://github.com/IemProg/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=IemProg&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
+</a>
+<a href="https://github.com/IemProg/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=IemProg&layout=compact&theme=radical" />
+</a>
