@@ -10,7 +10,6 @@ Feel free to reach out in case you look for contributors in projects.
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/IemProg/"><img height="30" src="https://github.com/IemProg/IemProg/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/imadeddine.ma/"><img height="30" src="https://github.com/IemProg/IemProg/blob/master/instagram.png?raw=true"></a>&nbsp;&nbsp;
 <a href="mailto:imadeddine.ma@gmail.com"><img height="30" src="https://github.com/IemProg/IemProg/blob/master/mail.png?raw=true"></a>
 </p>
 
