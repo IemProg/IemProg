@@ -5,7 +5,7 @@
   <img src="https://profile-counter.glitch.me/IemProg/count.svg" />
 </p>
 
-Hi ! I'm Imad, Computer Science Student at IP Paris, I have a passion for learning and sharing my knowledge with others as publicly as possible. Interested in Computer Vision and Explainibility of ML Models. 
+Hi ! I'm Imad, Computer Science Student at IP Paris, I have a passion for learning and sharing my knowledge with others. Interested in Computer Vision and Interpretability of ML Models. 
 Feel free to reach out in case you look for contributors in projects.
 
 <p align='center'>
