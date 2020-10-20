@@ -1,10 +1,5 @@
 ### Welcome 👋
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/IemProg/count.svg" />
-</p>
-
 Hi ! I'm Imad, Computer Science Student at IP Paris, I have a passion for learning and sharing my knowledge with others. Interested in Computer Vision and Interpretability of ML Models. 
 Feel free to reach out in case you look for contributors in projects.
 
