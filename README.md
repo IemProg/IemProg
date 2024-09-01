@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-Hi ! I'm Imad, Computer Science Student at IP Paris, I have a passion for learning and sharing my knowledge with others. Interested in Computer Vision and Interpretability of ML Models. 
+Hi ! I'm Imad, PhD student at IP Paris, I have a passion for learning and sharing my knowledge with others. Interested in continual learning and multi-modal learning. 
 Feel free to reach out in case you look for contributors in projects.
 
 <p align='center'>
@@ -9,7 +9,7 @@ Feel free to reach out in case you look for contributors in projects.
 </p>
 
 <a href="https://github.com/IemProg/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=IemProg&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=IemProg&show_icons=true&include_all_commits=true&theme=radical" alt="IemProg's github stats" />
 </a>
 <a href="https://github.com/IemProg/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
