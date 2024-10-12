@@ -1,7 +1,7 @@
 ### Hi! I'm Imad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 👀 I’m passionate about Continual Learning and Vision-Language Models, with a focus on parameter-efficient training, and multi-modal learning applications.
-- 🥇 PhD Candidate in Computer Science at IP Paris, expected to complete in late 2024. I hold an MS in Data&AI from IP-Paris.
+- 🥇 PhD Candidate in Computer Science at IP Paris. I hold an MS in Data&AI from IP-Paris.
 - 💡 My current work includes continual learning and tackling personalization challenges in Vision-Language Models.
 - 💬 Open to collaborations on projects involving Continual Learning, Multi-Task Learning, and optimization in machine learning systems.
 
