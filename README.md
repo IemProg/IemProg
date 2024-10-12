@@ -3,7 +3,7 @@
 - 👀 I’m passionate about Continual Learning and Vision-Language Models, with a focus on parameter-efficient training, and multi-modal learning applications.
 - 🥇 PhD Candidate in Computer Science at IP Paris. I hold an MS in Data&AI from IP-Paris.
 - 💡 My current work includes continual learning and tackling personalization challenges in Vision-Language Models.
-- 💬 Open to collaborations on projects involving Continual Learning, Multi-Task Learning, and optimization in machine learning systems.
+- 💬 Open to collaborations on projects involving Continual Learning, Multi-Task Learning, and continual pretraining of vision-language models.
 
 Feel free to explore my repositories and projects and reach out for any possible collaboration!
 
